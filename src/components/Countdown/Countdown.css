@@ -1,0 +1,19 @@
+.DateCountdownRemainder-hours, .DateCountdownRemainder-days, .DateCountdownRemainder-minutes, .DateCountdownRemainder-seconds {
+    display: inline;
+    margin: 10px;
+}
+
+.Countdown-input {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.Countdown {
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20%;
+}
+
+.Countdown-title {
+    font-size: 50px;
+}
